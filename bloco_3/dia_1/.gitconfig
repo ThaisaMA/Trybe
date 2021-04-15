@@ -1,0 +1,19 @@
+<!DOCUTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>HTML</title>
+</head>
+<body>
+<h1>Exercícios</h1>
+<h2>Amigos da Trybe</h2>
+<ul>
+<li>Matheus</li>
+<li>Marcos</li>
+<li>Lucas</li>
+<li>João</li>
+</ul>
+<img src="https://static3.tcdn.com.br/img/img_prod/580806/adesivo_de_parede_amigos_tornam_a_vida_mais_feliz_8578_1_20190413161624.jpg" alt="banner sobre amizade" width="300px">
+<img src="/home/thaisa/Downloads/Cloud-Expasion.jpg" alt="nuvens no céu" width="400px"> 
+</body>
+</html>
